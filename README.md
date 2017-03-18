@@ -1,1 +1,1 @@
-# generation_model
+# generative_model
